@@ -35,7 +35,8 @@ This Power BI dashboard presents an in-depth  grocery sales analysis of Blinkit,
 
 ## 📸 Dashboard Preview
 
-![Blinkit Dashboard](./dashboard.png)
+![Blinkit Dashboard](https://github.com/Chaitanyapriya-01/blinkit-powerbi-dashboard/blob/main/blinkit%20powerbi%20.png?raw=true)
+
 
 ---
 
